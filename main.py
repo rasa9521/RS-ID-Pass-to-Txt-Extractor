@@ -37,10 +37,11 @@ logging = logging.getLogger()
 # =========== Client ===========#
 bot = Client(
     "bot",
-    bot_token=bot_token,
-    api_id=api_id,
-    api_hash=api_hash,
+    bot_token=7906984827:AAHK9VXO1oDKCD3f-HfJlL8xnWF4wuE0wiM,
+    api_id=25364269,
+    api_hash=ddfbbd94cf441e22ee71bb7f4695c2f1,
 )
+
 
 print(listen.__file__)
 
